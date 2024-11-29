@@ -11,6 +11,9 @@ langchain-pinecone
 pinecone-client
 Gradio
 
+![Codeugelds](captura.jpg)
+
+
 
 ## Instalación
 
