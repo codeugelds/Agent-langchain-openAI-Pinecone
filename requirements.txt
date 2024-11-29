@@ -1,0 +1,12 @@
+pymupdf
+langchain
+langchain-community
+langchain-openai
+langchain-pinecone
+pinecone-client
+gradio
+python-dotenv
+
+#PyPDFLoader
+#// para correr librerias
+#pip install -U -r requirements.txt
